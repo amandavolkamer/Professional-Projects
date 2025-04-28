@@ -88,7 +88,4 @@ This solution was critical across multiple workflows, including:
 ### 📝 Team DCS Extract Review to Individual Lists
 - Helped set up SharePoint list architecture within the leadership SharePoint site and tested automation that moved extract reviews from leadership list to individual team lists for visibility.
 
-### 🌐 Local Code Web Extraction
-- Provided guidance on UI element selection, building loops for row iteration, and configuring data table outputs for a web scraping automation in Power Automate Desktop.
-
 ---
