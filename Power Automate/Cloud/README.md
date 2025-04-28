@@ -1,6 +1,6 @@
 # ☁️ Power Automate Cloud Workflows
 
-This folder showcases various **Power Automate Cloud** workflows I created and implemented in previous roles. These automations streamlined communications, improved feedback tracking, supported team operations, and enhanced overall workflow efficiency.
+This folder showcases various **Power Automate Cloud** workflows I created and implemented in my previous role. These automations streamlined communications, improved feedback tracking, supported team operations, and enhanced overall workflow efficiency.
 
 ---
 
